@@ -34,5 +34,5 @@ jobs:
         with:
           branch: gh-pages
           folder: out
-          token: ${{ secrets.RESUME_RELEASE }}
+          token: ${{ secrets.KEY_RELEASE }}
           clean: true
