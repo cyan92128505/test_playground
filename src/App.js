@@ -5,13 +5,13 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <row>
+        <p>
           <Star></Star>
           <Star></Star>
           <Star></Star>
           <Star></Star>
           <Star></Star>
-        </row>
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
